@@ -32,4 +32,3 @@ spec:
     - name: etc-kubernetes
       hostPath:
        path: "/etc/kubernetes"
-
