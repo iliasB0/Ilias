@@ -6,7 +6,7 @@ metadata:
     app: ecsdemo-frontend
   namespace: projet
 spec:
-  replicas: 15
+  replicas: 10
   selector:
     matchLabels:
       app: ecsdemo-frontend
